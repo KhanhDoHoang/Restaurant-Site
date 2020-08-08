@@ -51,8 +51,8 @@ $database = "docom_eatery";
                     {
                         echo "<tr>";					                         
                                 echo "<th>Full Name<th>";	                               
-                                echo "<th>Email Address<th>";	
-                                echo "<th>Telephone Number<th>";	                                				
+                                echo "<th>Telephone Number<th>";	
+                                echo "<th>Email Address<th>";	                                				
                             echo "</tr>";
                         for($i=0; $i<$rowCount; ++$i)
                         {
