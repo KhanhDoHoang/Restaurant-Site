@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-site",
+  "version": "1.0.0",
+  "description": "Using MySQL, MyAdminPHP for users subcribing, login for adminusers...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanhDoHoang/Restaurant-Site.git"
+  },
+  "author": "Hoang Do",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhanhDoHoang/Restaurant-Site/issues"
+  },
+  "homepage": "https://github.com/KhanhDoHoang/Restaurant-Site#readme",
+  "dependencies": {
+    "node": "^14.7.0",
+    "sass": "^1.26.10"
+  }
+}
