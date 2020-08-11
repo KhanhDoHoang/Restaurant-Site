@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Using MySQL, MyAdminPHP for users subcribing, login for adminusers...",
   "main": "index.js",
+  "homepage": "https://KhanhDoHoang.github.io/WP-Eatery-Restaurant",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -15,9 +17,13 @@
   "bugs": {
     "url": "https://github.com/KhanhDoHoang/Restaurant-Site/issues"
   },
-  "homepage": "https://github.com/KhanhDoHoang/Restaurant-Site#readme",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "node": "^14.7.0",
     "sass": "^1.26.10"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "sqlserver"
+  ]
 }
