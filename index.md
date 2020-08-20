@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to WP-Restaurant
 
 You can use the [editor on GitHub](https://github.com/KhanhDoHoang/Restaurant-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
